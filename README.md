@@ -63,4 +63,6 @@ This application uses the Model-View-ViewModel (refered to as MVVM) UI architect
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-04-28 at 17 47 09](https://user-images.githubusercontent.com/58474263/235167646-aad90f5f-0050-46c9-b104-1de69524096a.png)
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-04-28 at 18 07 47](https://user-images.githubusercontent.com/58474263/235170288-f8b175f1-8078-4266-a771-ef03d3425e76.png)
+
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-04-28 at 17 47 35](https://user-images.githubusercontent.com/58474263/235167715-207a4a4e-7c12-46bf-a4ea-af595b74965e.png)
