@@ -6,6 +6,7 @@ Swift Assessment Test
 * SwiftUI
 * Xcode 14.2+
 * iOS 16.2+
+* MacOS Monterey 12.6
 
 # Getting Started
 - If this is your first time encountering swift/ios development, please follow [the instructions](https://developer.apple.com/support/xcode/) to setup Xcode and Swift on your Mac.
