@@ -7,7 +7,7 @@ struct ArticalCell<T: ArticalListViewModelType>: View {
     var body: some View {
         VStack {
             HStack{
-                if let urlString = viewModel.setStringUrl(article: article), let url = URL(string: urlString) {
+                if let url = URL(string: viewModel.setStringUrl(article: article)) {
                     AsyncImage(
                         url: url,
                         placeholder: { ProgressView() },
