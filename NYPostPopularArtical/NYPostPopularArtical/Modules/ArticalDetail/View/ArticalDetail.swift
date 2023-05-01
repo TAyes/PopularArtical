@@ -11,7 +11,7 @@ struct ArticalDetail<T: ArticalDetailViewModelType>: View {
             GeometryReader { g in
                 VStack {
                     ZStack(alignment: .top) {
-                        if let urlString = articalDetailViewModel.setStringUrl(), let url = URL(string: urlString) {
+                        if let url = URL(string: articalDetailViewModel.setStringUrl()) {
                             AsyncImage(
                                 url: url,
                                 placeholder: { ProgressView() },
